@@ -7,9 +7,14 @@ Follow the guide here:  https://www.hardwarewallet.it/en/keytala-jig/
 
 This work is licensed under a
 Creative Commons (4.0 International License)
-Attribution—Noncommercial—Share Alike
+Attribution—Noncommercial—Share Alike -
+
 ✖ | Sharing without ATTRIBUTION
+
 ✔ | Remix Culture allowed
+
 ✖ | Commercial Use
+
 ✖ | Free Cultural Works
+
 ✖ | Meets Open Definition
